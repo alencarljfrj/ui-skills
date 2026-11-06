@@ -190,12 +190,13 @@ push_all_projects() {
 list_topics() {
   print_header
   echo -e "${COLOR_BLUE}Tópicos e Categorias Disponíveis:${COLOR_RESET}\n"
-  node -e '
-    const data = require("./catalog.json");
+  node -e "
+    const fs = require('fs');
+    const data = JSON.parse(fs.readFileSync('$CATALOG_FILE', 'utf-8'));
     for (const t of data.topics) {
-      console.log(`- ${t.slug.padEnd(24)} : ${t.label} (${t.description || ""})`);
+      console.log('- ' + t.slug.padEnd(24) + ' : ' + t.label + ' (' + (t.description || '') + ')');
     }
-  '
+  "
 }
 
 # ------------------------------------------------------------------------------
