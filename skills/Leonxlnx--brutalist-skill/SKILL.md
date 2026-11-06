@@ -1,1 +1,8 @@
----name: industrial-brutalist-uidescription: Raw, mechanical interface direction mixing Swiss print structure with terminal-inspired brutalist aesthetics.---Raw, mechanical interface direction mixing Swiss print structure with terminal-inspired brutalist aesthetics.
+---
+name: industrial-brutalist-ui
+description: "Raw, mechanical interface direction mixing Swiss print structure with terminal-inspired brutalist aesthetics."
+---
+
+# Industrial Brutalist Ui
+
+Raw, mechanical interface direction mixing Swiss print structure with terminal-inspired brutalist aesthetics.

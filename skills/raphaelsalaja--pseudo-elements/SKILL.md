@@ -1,1 +1,8 @@
----name: pseudo-elementsdescription: Audit CSS pseudo-elements and View Transitions usage for hover effects, decorative layers, and transitions.---Audit CSS pseudo-elements and View Transitions usage for hover effects, decorative layers, and transitions.
+---
+name: pseudo-elements
+description: "Audit CSS pseudo-elements and View Transitions usage for hover effects, decorative layers, and transitions."
+---
+
+# Pseudo Elements
+
+Audit CSS pseudo-elements and View Transitions usage for hover effects, decorative layers, and transitions.

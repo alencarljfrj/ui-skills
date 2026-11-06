@@ -1,3 +1,8 @@
+---
+name: shape
+description: "Plan feature UX before coding via a structured design interview that produces an actionable design brief."
+---
+
 # Shape
 
 Discover what should be made and how it should work, then return a confirmed design brief without code.

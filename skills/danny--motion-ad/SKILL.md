@@ -1,3 +1,8 @@
+---
+name: motion-ad
+description: "Produce short motion-graphics video ads for any product as rendered MP4s, with GSAP-driven HTML beats and frame-by-frame capture."
+---
+
 # Motion Ad
 
 Builds a sound-off-friendly motion-graphics ad as one HTML page driven by a paused GSAP timeline, then renders it frame by frame into an H.264 MP4. The bundled [assets/template.html](assets/template.html) is a finished 15s 4:5 ad (hook + phone → before/after scan reveal → 3D wall of outputs → showcase carousel + social proof → brand-color CTA end card). All brand and product content sits in one `CONFIG` object at the top of its script — start there and rewrite beats rather than building from zero. Missing images render as labelled placeholders, so the ad previews before real assets exist.

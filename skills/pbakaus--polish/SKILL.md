@@ -1,3 +1,8 @@
+---
+name: polish
+description: "Final quality pass for spacing, alignment, and consistency to prepare UI for launch."
+---
+
 > **Additional context needed**: quality bar and shipping constraints.
 
 Polish is refinement, never concealed redesign. Preserve the incumbent visual world, content, behavior, and everything outside scope. If the concept itself is wrong, say so and recommend redesign or `bolder` instead of smuggling in a replacement.

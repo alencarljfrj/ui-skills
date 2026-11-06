@@ -1,3 +1,8 @@
+---
+name: distill
+description: "Simplify noisy interfaces by removing non-essential complexity and restoring clear visual focus."
+---
+
 Strip a design to its essence. Remove anything that doesn't earn its place: redundant elements, repeated information, decorative noise, cosmetic complexity.
 
 

@@ -1,3 +1,8 @@
+---
+name: animate
+description: "Enhance UX with purposeful animation and micro-interactions that support usability and delight."
+---
+
 > **Additional context needed**: performance constraints.
 
 Use motion to explain state, relationship, and hierarchy, or to create one authored moment the surface has earned. Decoration without purpose is animation debt.

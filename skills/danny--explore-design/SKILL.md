@@ -1,3 +1,8 @@
+---
+name: explore-design
+description: "Generate a single self-contained HTML file with several distinct visual directions side by side so the user can pick a direction."
+---
+
 # explore-design
 
 Produce ONE standalone `.html` file that lays out several visual directions side-by-side so the user can pick a direction. The output is for visual comparison — it is not production code.

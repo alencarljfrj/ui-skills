@@ -1,3 +1,8 @@
+---
+name: colorize
+description: "Introduce strategic color systems to interfaces that feel dull, monochrome, or visually flat."
+---
+
 > **Additional context needed**: existing brand colors.
 
 Introduce color as hierarchy, meaning, and atmosphere. Preserve confirmed brand and semantic conventions; do not replace a visual world under the guise of colorizing it.

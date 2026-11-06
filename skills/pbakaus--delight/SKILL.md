@@ -1,3 +1,8 @@
+---
+name: delight
+description: "Add personality and memorable moments through thoughtful interaction details and emotional UX touches."
+---
+
 > **Additional context needed**: the brand's emotional range.
 
 Make the experience memorable at moments that earn it. Delight is not a layer of generic whimsy; it is product character revealed through a useful interaction, a humane response, or an unexpectedly considered detail.

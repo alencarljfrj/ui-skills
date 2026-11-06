@@ -1,3 +1,8 @@
+---
+name: engineering
+description: "Routing bundle for code work covering planning, debugging, TDD, architecture, and execution flows."
+---
+
 # Engineering
 
 Skills I use daily for code work.

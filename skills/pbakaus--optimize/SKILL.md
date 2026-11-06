@@ -1,3 +1,8 @@
+---
+name: optimize
+description: "Diagnose and improve interface performance across rendering, motion smoothness, assets, and load speed."
+---
+
 Performance is a feature. Identify the actual bottleneck for THIS interface, fix it, then measure. Don't optimize what isn't slow.
 
 ## Assess Performance Issues

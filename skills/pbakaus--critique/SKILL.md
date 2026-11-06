@@ -1,3 +1,8 @@
+---
+name: critique
+description: "Evaluate design quality with structured UX scoring, persona checks, and actionable remediation guidance."
+---
+
 ### Purpose
 
 Resolve one stable target, run two independent assessments, synthesize a design critique, persist a snapshot, and ask the user what to improve next. The chat response is the primary deliverable; the snapshot is an archive of that run.

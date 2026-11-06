@@ -1,3 +1,8 @@
+---
+name: layout
+description: "Fix spacing, composition, and hierarchy rhythm when UI layout feels crowded, flat, or misaligned."
+---
+
 Layout turns product priority into reading order, grouping, rhythm, and usable space. Diagnose the structural problem before moving boxes.
 
 ---

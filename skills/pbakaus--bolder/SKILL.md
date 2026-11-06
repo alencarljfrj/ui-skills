@@ -1,3 +1,8 @@
+---
+name: bolder
+description: "Increase visual impact and personality for interfaces that feel too safe, bland, or generic."
+---
+
 > **Additional context needed**: which section is the target, and what must stay untouched.
 
 An open direction round owns the word first: "bolder" said while a direction decision is on the table is the Bolder hand register steer, a fresh deal of foreign forms (see new-work.md), not this command. This command refines a surface whose world already shipped.

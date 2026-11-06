@@ -1,3 +1,8 @@
+---
+name: screenshot
+description: "Capture a screenshot of any rendered web page in headless Chrome — full page, viewport, section, or element — for review and motion pipelines."
+---
+
 # Screenshot
 
 Loads a URL in headless Chrome and captures exactly what the user asked for — the whole page, one section, a single element, the viewport, or a specific device rendering. Saves a PNG and Reads it back so the result is visible inline.
