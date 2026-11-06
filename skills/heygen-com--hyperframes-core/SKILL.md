@@ -1,0 +1,1 @@
+---name: hyperframes-coredescription: HyperFrames composition contract: timing attributes, tracks, sub-compositions, variables, and deterministic render rules.---HyperFrames composition contract: timing attributes, tracks, sub-compositions, variables, and deterministic render rules.

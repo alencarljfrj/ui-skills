@@ -1,0 +1,1 @@
+---name: full-output-enforcementdescription: Enforces complete, non-truncated code output and blocks placeholder or half-finished responses.---Enforces complete, non-truncated code output and blocks placeholder or half-finished responses.

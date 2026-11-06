@@ -1,0 +1,1 @@
+---name: stitch-design-tastedescription: Semantic design-system skill for Google Stitch with strict anti-generic UI generation rules.---Semantic design-system skill for Google Stitch with strict anti-generic UI generation rules.

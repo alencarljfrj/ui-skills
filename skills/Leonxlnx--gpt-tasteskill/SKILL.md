@@ -1,0 +1,1 @@
+---name: gpt-tastedescription: High-agency UX/UI skill with strict layout variance, typography, and GSAP motion engineering constraints.---High-agency UX/UI skill with strict layout variance, typography, and GSAP motion engineering constraints.

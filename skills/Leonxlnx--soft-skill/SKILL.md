@@ -1,0 +1,1 @@
+---name: high-end-visual-designdescription: High-end visual design guidance for premium typography, spacing, depth, and animation systems.---High-end visual design guidance for premium typography, spacing, depth, and animation systems.

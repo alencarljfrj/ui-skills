@@ -1,0 +1,1 @@
+---name: to-spring-or-not-to-springdescription: Audit animation timing choices to decide when springs versus easing curves produce better motion.---Audit animation timing choices to decide when springs versus easing curves produce better motion.

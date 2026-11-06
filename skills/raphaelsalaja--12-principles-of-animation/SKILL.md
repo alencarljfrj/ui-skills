@@ -1,0 +1,1 @@
+---name: 12-principles-of-animationdescription: Apply Disney's 12 animation principles to web interfaces to make motion feel natural, organic, and human.---Apply Disney's 12 animation principles to web interfaces to make motion feel natural, organic, and human.

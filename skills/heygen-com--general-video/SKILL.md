@@ -1,0 +1,1 @@
+---name: general-videodescription: Author custom HyperFrames compositions for multi-scene pieces, reels, montages, and freeform product or brand videos.---Author custom HyperFrames compositions for multi-scene pieces, reels, montages, and freeform product or brand videos.

@@ -1,0 +1,1 @@
+---name: morphing-iconsdescription: Build icon components that morph between SVG shapes with smooth, line-based transformation.---Build icon components that morph between SVG shapes with smooth, line-based transformation.

@@ -1,0 +1,1 @@
+---name: mastering-animate-presencedescription: Audit Motion and Framer Motion exit/presence patterns with practical fixes for AnimatePresence usage.---Audit Motion and Framer Motion exit/presence patterns with practical fixes for AnimatePresence usage.

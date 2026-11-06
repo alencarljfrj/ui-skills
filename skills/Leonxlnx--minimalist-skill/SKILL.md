@@ -1,0 +1,1 @@
+---name: minimalist-uidescription: Editorial minimal interfaces with monochrome palettes, typographic contrast, and restrained visuals.---Editorial minimal interfaces with monochrome palettes, typographic contrast, and restrained visuals.

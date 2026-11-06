@@ -1,0 +1,1 @@
+---name: sounds-on-the-webdescription: Audit interface sound feedback for UX quality, accessibility, and practical implementation patterns.---Audit interface sound feedback for UX quality, accessibility, and practical implementation patterns.

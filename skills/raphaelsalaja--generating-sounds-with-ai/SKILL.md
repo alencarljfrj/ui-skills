@@ -1,0 +1,1 @@
+---name: generating-sounds-with-aidescription: Audit Web Audio API code for procedural sound synthesis quality, UX decisions, and parameter best practices.---Audit Web Audio API code for procedural sound synthesis quality, UX decisions, and parameter best practices.
