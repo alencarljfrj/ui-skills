@@ -1,6 +1,6 @@
-# Catálogo Completo de UI Skills (638 Skills)
+# Catálogo Completo de Skills para Agentes de IA (1.797 Skills)
 
-Este repositório contém a coleção completa e organizada de **638 UI Skills** obtidas de [ui-skills.com](https://www.ui-skills.com/skills), prontas para serem incorporadas na estrutura de agentes (Antigravity, Gemini, Cursor, Claude Code, Codex, Windsurf) e replicadas em qualquer repositório Git.
+Este repositório contém a coleção completa e organizada de **1.797 Skills para Agentes de IA**, unificando o catálogo de UI/UX de [ui-skills.com](https://www.ui-skills.com/skills) e as skills de negócios, gestão, tecnologia e estratégia de [tiagopgr/skills-ia](https://github.com/tiagopgr/skills-ia), prontas para serem incorporadas na estrutura de agentes (Antigravity, Gemini, Cursor, Claude Code, Codex, Windsurf) e replicadas em qualquer repositório Git.
 
 ---
 
