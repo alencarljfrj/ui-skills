@@ -28777,6 +28777,82 @@
       "pathSlug": "tiagopgr/pesquisa-de-nicho-clientes-ideais-para-freelancer",
       "sourceKey": "tiagopgr",
       "sourceLabel": "Tiago PGR"
+    },
+    {
+      "slug": "cf-edge-hyperdrive-binding",
+      "user": "alencarljfrj",
+      "repo": "ui-skills",
+      "rawUrl": "https://raw.githubusercontent.com/alencarljfrj/ui-skills/main/skills/alencarljfrj--cf-edge-hyperdrive-binding/SKILL.md",
+      "githubUrl": "https://github.com/alencarljfrj/ui-skills/blob/main/skills/alencarljfrj--cf-edge-hyperdrive-binding/SKILL.md",
+      "name": "cf-edge-hyperdrive-binding",
+      "topics": [
+        "cloudflare",
+        "edge",
+        "database",
+        "postgres",
+        "drizzle"
+      ],
+      "description": "Configure, consume, and troubleshoot Cloudflare Hyperdrive bindings in Workers to connect to PostgreSQL (Supabase/Neon) with connection pooling at the edge.",
+      "pathSlug": "alencarljfrj/cf-edge-hyperdrive-binding",
+      "sourceKey": "alencarljfrj",
+      "sourceLabel": "alencarljfrj"
+    },
+    {
+      "slug": "cf-edge-wrangler-config",
+      "user": "alencarljfrj",
+      "repo": "ui-skills",
+      "rawUrl": "https://raw.githubusercontent.com/alencarljfrj/ui-skills/main/skills/alencarljfrj--cf-edge-wrangler-config/SKILL.md",
+      "githubUrl": "https://github.com/alencarljfrj/ui-skills/blob/main/skills/alencarljfrj--cf-edge-wrangler-config/SKILL.md",
+      "name": "cf-edge-wrangler-config",
+      "topics": [
+        "cloudflare",
+        "edge",
+        "wrangler",
+        "workers",
+        "devops"
+      ],
+      "description": "Author, review, and deploy Cloudflare Workers configuration (wrangler.jsonc) for the Mega/Scanvol ecosystem.",
+      "pathSlug": "alencarljfrj/cf-edge-wrangler-config",
+      "sourceKey": "alencarljfrj",
+      "sourceLabel": "alencarljfrj"
+    },
+    {
+      "slug": "polyrepo-changesets",
+      "user": "alencarljfrj",
+      "repo": "ui-skills",
+      "rawUrl": "https://raw.githubusercontent.com/alencarljfrj/ui-skills/main/skills/alencarljfrj--polyrepo-changesets/SKILL.md",
+      "githubUrl": "https://github.com/alencarljfrj/ui-skills/blob/main/skills/alencarljfrj--polyrepo-changesets/SKILL.md",
+      "name": "polyrepo-changesets",
+      "topics": [
+        "polyrepo",
+        "changesets",
+        "versioning",
+        "packages",
+        "ci-cd"
+      ],
+      "description": "Version, publish, and consume shared packages across the polyrepo ecosystem using Changesets and GitHub Packages.",
+      "pathSlug": "alencarljfrj/polyrepo-changesets",
+      "sourceKey": "alencarljfrj",
+      "sourceLabel": "alencarljfrj"
+    },
+    {
+      "slug": "polyrepo-shared-schema-evolution",
+      "user": "alencarljfrj",
+      "repo": "ui-skills",
+      "rawUrl": "https://raw.githubusercontent.com/alencarljfrj/ui-skills/main/skills/alencarljfrj--polyrepo-shared-schema-evolution/SKILL.md",
+      "githubUrl": "https://github.com/alencarljfrj/ui-skills/blob/main/skills/alencarljfrj--polyrepo-shared-schema-evolution/SKILL.md",
+      "name": "polyrepo-shared-schema-evolution",
+      "topics": [
+        "polyrepo",
+        "database",
+        "drizzle",
+        "schema",
+        "migrations"
+      ],
+      "description": "Evolve the shared Drizzle schema in @alencarljfrj/database without breaking the 5 consumer repositories.",
+      "pathSlug": "alencarljfrj/polyrepo-shared-schema-evolution",
+      "sourceKey": "alencarljfrj",
+      "sourceLabel": "alencarljfrj"
     }
   ],
   "topics": [
